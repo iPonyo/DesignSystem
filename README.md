@@ -7,23 +7,22 @@ A useful tools or tips list for Design System .
 ## 定义
 
 - [What is a Design System?](https://medium.muz.li/what-is-a-design-system-1e43d19e7696)
+- [什么是 Design System](https://zhuanlan.zhihu.com/p/31197706)
+- [Design Systems 02 - 什么是 Design Principles](https://zhuanlan.zhihu.com/p/31465217)
+- [设计体系的目标、价值及构成原理](https://weibo.com/ttarticle/p/show?id=2309404166808163724875)
 
-### 设计系统组成元素：
+## 范例
+
+[Awesome Design Systems](https://github.com/alexpate/awesome-design-systems)
 
 - **Components**: Contains coded patterns and examples;
 - **Voice & Tone**: Provides guidance on how language should be used;
 - **Designers Kit**: Includes a Sketch/Photoshop/Figma/etc. file for designers;
 - **Storybook**: Provides components with relevant stories for React Storybook;
 
-## 范例
-
-- [awesome-design-systems](https://github.com/alexpate/awesome-design-systems)
-
 ## 理论
 
 - [为什么产品研发团队要做一套自己的组件库](https://zhuanlan.zhihu.com/p/35791679)
-- [设计规范限制了设计师的创造力吗](http://uih2.com/1195/)
-- [设计体系的目标、价值及构成原理](https://weibo.com/ttarticle/p/show?id=2309404166808163724875)
 - [Design System - 以小为始，持久进化](http://beforweb.com/node/962)
 - [Design Systems 读书笔记](http://beforweb.com/node/960)
 - [设计系统](https://weibo.com/ttarticle/p/show?id=2309404237526628987485)
@@ -35,8 +34,7 @@ A useful tools or tips list for Design System .
 
 ## 经验
 
-- [什么是 Design System](https://zhuanlan.zhihu.com/p/31197706)
-- [Design Systems 02 - 什么是 Design Principles](https://zhuanlan.zhihu.com/p/31465217)
+- [设计规范限制了设计师的创造力吗](http://uih2.com/1195/)
 - [使用Sketch Libraries构建组件库/设计体系](http://beforweb.com/node/943)
 - [Sketch 47 Libraries功能图文详解](http://beforweb.com/node/938)
 - [design systems](https://medium.com/@nathanacurtis/latest)
@@ -56,10 +54,6 @@ A useful tools or tips list for Design System .
 - [我们的第一个设计模式库](https://weibo.com/ttarticle/p/show?id=2309404173290196312972)
 - [产品分析与数据理解](http://uih2.com/3494/)
 - [Design Pattern - 页面的信息展示逻辑](https://zhuanlan.zhihu.com/p/33650176)
-- [Design Pattern 划分方式是对设计的逻辑思考](https://zhuanlan.zhihu.com/p/33265111)
-- [Design Pattern 组合实例 - 列表页设计思考](https://zhuanlan.zhihu.com/p/33043000)
-- [Design Pattern 实例 - 用户通知与中断](https://zhuanlan.zhihu.com/p/32789406)
-- [Components 与 Patterns 究竟有什么区别](https://zhuanlan.zhihu.com/p/31769639)
 - [GE Digital 用户体验总监与你探讨: 设计系统中的「一致性」与「灵活性」](https://zhuanlan.zhihu.com/p/34759854)
 - [DS](https://medium.com/@christopherdeane)
 - [](https://medium.com/@marcandrew)
@@ -67,7 +61,6 @@ A useful tools or tips list for Design System .
 - [Inclusive Components](https://inclusive-components.design/)
 - [5 years of Design Systems. A personal journey into scalable design](https://medium.com/sketch-app-sources/5-years-of-design-systems-a-personal-journey-into-modulated-scale-able-design-ca1fd9b5cb26)
 - [Setup a design system](https://blog.prototypr.io/design-system-ac88c6740f53)
-- 组件使用建议（比如图表、动效、交互设计等）
 
 
 ## 字体
@@ -111,7 +104,6 @@ A useful tools or tips list for Design System .
 ## 辅助工具
 
 - [Design System工具：持续提高团队设计效率的必然选择](https://zhuanlan.zhihu.com/p/34227956)
-- [Material Design 给我们带来了足够多的惊喜](https://zhuanlan.zhihu.com/p/36648470)
 - [把 Sketch 变成 Principle 的插件：Diya](https://zhuanlan.zhihu.com/p/35563186)
 - [Sketch 插件](https://zhuanlan.zhihu.com/p/35840324)
   - [Sketch Runner](https://sketchrunner.com/)：
@@ -145,8 +137,17 @@ A useful tools or tips list for Design System .
 - [https://design.firefox.com/](https://design.firefox.com/)
 - [How To Create a Style Guide From Scratch. Tips and Tricks](https://medium.muz.li/how-to-create-a-style-guide-from-scratch-tips-and-tricks-e00f25b423bf)
 
-## 工具
-
 ## 书籍
 
-- [Design Systems](https://www.smashingmagazine.com/printed-books/design-systems/)
+[Design Systems](https://www.smashingmagazine.com/printed-books/design-systems/)
+
+本书相关的读书笔记
+
+- [什么是 Design System](https://zhuanlan.zhihu.com/p/31197706)
+- [什么是 Design Principles](https://zhuanlan.zhihu.com/p/31465217)
+- [Components 与 Patterns 究竟有什么区别](https://zhuanlan.zhihu.com/p/31769639)
+- [你该为产品设计怎样的气质](https://zhuanlan.zhihu.com/p/32241298)
+- [Design System 中的 Design Token](https://zhuanlan.zhihu.com/p/32548767)
+- [Design Pattern 实例 - 用户通知与中断](https://zhuanlan.zhihu.com/p/32789406)
+- [Design Pattern 组合实例 - 列表页设计思考](https://zhuanlan.zhihu.com/p/33043000)
+- [Design Pattern 划分方式是对设计的逻辑思考](https://zhuanlan.zhihu.com/p/33265111)
