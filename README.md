@@ -119,6 +119,7 @@ A useful tools or tips list for Design System .
   - [Sketch Isometric](https://github.com/sureskumar/sketch-isometric)
   - [Chart](https://github.com/pavelkuligin/chart)
   - [Diya](https://zhuanlan.zhihu.com/p/35563186)
+  - [Anima Toolkit](https://medium.com/sketch-app-sources/how-to-export-sketch-to-css-animations-code-63404263ebf2)
 
 ## 文档编写
 
@@ -189,10 +190,20 @@ A useful tools or tips list for Design System .
 - [Design Systems, part 12: Tabs and tables](https://medium.com/sketch-app-sources/design-systems-part-12-tabs-and-tables-55bbec2c2d7d)
 - [Design Systems, part 13: Accordion](https://medium.com/sketch-app-sources/design-systems-part-13-accordion-18852904415c)
 
+@Marcin Treder
 
-@xxx
+- [Design Systems Sprint 0: The Silver Bullet of Product Development.](https://medium.com/@marcintreder/design-systems-sprint-0-the-silver-bullet-of-product-development-8c0ed83bf00d)
+- [Design Systems Sprint 1: The Interface Inventory](https://medium.com/@marcintreder/design-systems-sprint-1-the-interface-inventory-1f78d376e49a)
+- [Design System Sprint 2: One Color Palette to Rule them All](https://medium.com/@marcintreder/design-system-sprint-2-one-color-palette-to-rule-them-all-d0114ed1f659)
+- [Design System Sprint 3: Managing the Basics](https://medium.com/@marcintreder/design-system-sprint-3-managing-the-basics-50ff588cbac8)
+- [Design System Sprint 4: Design Principles](https://medium.com/@marcintreder/design-system-sprint-4-design-principles-8efb22d8a208)
+- [Design System Sprint 5: Managing Typography](https://medium.com/@marcintreder/design-system-sprint-4-managing-typography-303e335894ee)
+- [Design System Sprint 6: The Fastest Icons on Earth](https://medium.com/@marcintreder/design-system-sprint-6-the-fastest-icons-on-earth-bf91c0a47ef9)
 
-- [](https://medium.com/@nathanacurtis)
+
+@nathanacurtis
+
+- [nathanacurtis](https://medium.com/@nathanacurtis)
 
 
 构建流程
